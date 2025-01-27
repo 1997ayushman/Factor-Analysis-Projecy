@@ -32,4 +32,3 @@ The notebook performs **Factor Analysis** (FA), focusing on dimensionality reduc
 - **Transformation**:
   - The data is transformed into independent factors, ensuring uncorrelated components for further analysis.
 
-Would you like me to include anything else or further refine the details?
